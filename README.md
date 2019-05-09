@@ -1,1 +1,1 @@
-# Spring-CRUD
+Registration form with Spring & Hibernate
